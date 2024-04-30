@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>O.com RSS Feed</title>
+    <link>https://github.com/Adam3852?tab=repositories</link>
+    <description>Toutes les infos O.com en une seule place</description>
+    <language>fr-fr</language>
+    <item>
+      <title>YAHYADAM-TERMINAL va peut-être être exposé au public</title>
+      <pubDate>Mon, 29 Apr 2024 21:27:32 GMT</pubDate>
+      <description>Le CEO de O.com a maintenant annoncé une version d'O.com Terminal qui a été entièrement codé en Python, alors que les applications avaient été codé d'une façon qui utilise la même commande, alors les dévloppeurs d'O.com ont déterminé que O.com Terminal va être exposé avec une autre façon de codage d'applications...</description>
+    </item>
+    <item>
+      <title>O.com Talk : Les premières disscusions sur O.com Talk, une copie du service Google Talk...</item>
+      <pubDate>Tue, 30 Apr 2024 10:41:56 GMT</pubDate>
+      <description>Les premières disscusions qui ont été faites dans O.com Talk ont été faites entre TALKID-ocomceodev, TALKID-hamza1024 et TALKID-yaya9999. Ces trois disscusions n'ont pas été faites dans la version normale D'O.com Talk, elle ont été faites dans la première version bêta, notamment appelée (PREREALESE1-0.05)...</description>
+  </item>
+  </channel>
+</rss>
